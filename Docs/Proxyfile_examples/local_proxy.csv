@@ -1,0 +1,2 @@
+Proxy name,Address,Port,Type,Auth method,Username,Password,Comment
+Local proxy,127.0.0.1,8080,http-proxy,none,,,This is a proxy which is running on my local machine

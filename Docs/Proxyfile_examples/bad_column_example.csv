@@ -1,0 +1,4 @@
+Proxy name, Port,Type,Auth method,Username,Password
+My first proxy,8080,http-proxy,none,,
+My second proxy, 8000, http-proxy,basic,Admin,Admin
+My third proxy, 60, socks-proxy,none,,
