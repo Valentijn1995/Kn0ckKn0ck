@@ -44,7 +44,7 @@ make html
 ```
 This command will build the documentation and place it in the build directory. Open the **index.html** file with your web-browser to browse the documentation.
 
-Windows user will have to run the following command to build the documentation:
+Windows users will have to run the following command to build the documentation:
 ```
 make.bat html
 ```
